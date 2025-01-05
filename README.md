@@ -1,6 +1,7 @@
 <div align="center">
-  <h1 align="left" >Hola, soy <a style="color:#f7df2e;" href="https://www.linkedin.com/in/iv%C3%A1n-mayoral-capel-8288a1331/">Iván Mayoral Capel</a> 👋</h1>
+  <h1 align="left" >Hola, soy <a style="color:#f7df2e;" href="https://www.linkedin.com/in/iv%C3%A1n-mayoral-capel-8288a1331/">Iván Mayoral</a> 👋</h1>
 </div>
+<img src="https://i.imgur.com/I99frQy.jpeg">
 
 ## 🙋‍♂️ About Me
 
