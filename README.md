@@ -1,21 +1,21 @@
 <div align="center">
-  <h1 align="left" >Hola, soy <a style="color:#f7df2e;" href="https://www.linkedin.com/in/iv%C3%A1n-mayoral-capel-8288a1331/">Iván Mayoral</a> 👋</h1>
+  <h1 align="left" >Hola, soy <a style="color:#f7df2e;" href="https://www.linkedin.com/in/iv%C3%A1n-mayoral-8288a1331/">Iván Mayoral</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/I99frQy.jpeg">
+<img src="https://github.com/user-attachments/assets/81575bfd-f252-438e-9920-8a91f4cacae3">
 
 ## 🙋‍♂️ About Me
 
-- 🚀 Desarrollador Web Full-Stack
-- 🧑‍💻 React, Astro, TypeScript, TailwindCss, Sass, PHP, Laravel, MySQL...
-- 🎥 Especialista VFX (Adobe Premiere Pro, Adobe After Effects, Cinema 4D, Vegas Pro)
-- 🎨 Diseñador Gráfico y Web (Adobe Photoshop, Adobe Indesign, Adobe Illustrator, Figma)
+- 🚀 Full-Stack Web Developer
+- 🧑‍💻 React, Astro, TypeScript, TailwindCSS, Sass, PHP, Laravel, MySQL...
+- 🎥 VFX Specialist (Adobe Premiere Pro, Adobe After Effects, Cinema 4D, Vegas Pro)
+- 🎨 Graphic and Web Designer (Adobe Photoshop, Adobe InDesign, Adobe Illustrator, Figma)
 <br>
 
-## 🎓 Formacion 
+## 🎓 Education 
 
 - 📖 Desarrollo de Aplicaciones Web (DAW) | JUANXXIII CFP
 - 📘 Titulo Superior Diseño Digital | CEI: Escuela de Diseño, Marketing y Nuevas Tecnologías
-- ⏭️ Ingenieria Informática 🌟
+- ⏭️ Ingenieria Informática (soon) 🌟
 <br>
 
 
