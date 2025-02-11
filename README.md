@@ -18,5 +18,6 @@
 - ⏭️ Ingenieria Informática (soon) 🌟
 <br>
 
-
+<img alt="Top Lang" width="40%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmayoraldev&layout=compact&theme=dracula">
+<img alt="GitHub stats" width="52%"  align="left" src="https://github-readme-stats.vercel.app/api?username=ivanmayoraldev&show_icons=true&theme=dracula">
 
