@@ -5,17 +5,21 @@
 
 ## 🙋‍♂️ About Me
 
-- 🚀 Full-Stack Web Developer
-- 🧑‍💻 React, Astro, TypeScript, TailwindCSS, Sass, PHP, Laravel, MySQL...
-- 🎥 VFX Specialist (Adobe Premiere Pro, Adobe After Effects, Cinema 4D, Vegas Pro)
-- 🎨 Graphic and Web Designer (Adobe Photoshop, Adobe InDesign, Adobe Illustrator, Figma)
+Full-Stack Developer with a passion for design—Web, UX/UI & VFX. 
+DAW Graduated, always pushing my skills in new idea projects.
+
+- 🚀 Web Dev: React, TypeScript, Astro, NodeJS, PHP, Laravel, Python, MySQL, PostgreSQL.
+- 🎨 Design & UI/UX: CSS, SASS, TailwindCSS, Figma, Framer.
+- 🎬 VFX & Motion Graphics: Premiere Pro, After Effects, DaVinci Resolve, Avid.
+- 🖌️ GFX: Photoshop, InDesign, Illustrator.
+
 <br>
 
 ## 🎓 Education 
 
 - 📖 Desarrollo de Aplicaciones Web (DAW) | JUANXXIII CFP
 - 📘 Titulo Superior Diseño Digital | CEI: Escuela de Diseño, Marketing y Nuevas Tecnologías
-- ⏭️ Ingenieria Informática (soon) 🌟
+- ⏭️ UX/UI & still studying to keep improving habilities (soon) 🌟
 <br>
 
 <img alt="Top Lang" width="40%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmayoraldev&layout=compact&theme=dracula">
