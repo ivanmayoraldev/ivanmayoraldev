@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="left" >Hola, soy <a style="color:#f7df2e;" href="https://www.linkedin.com/in/iv%C3%A1n-mayoral-8288a1331/">Iván Mayoral</a> 👋</h1>
+  <h1 align="left" >Hi! I´m <a style="color:#f7df2e;" href="https://www.linkedin.com/in/iv%C3%A1n-mayoral-8288a1331/">Iván Mayoral</a> 👋</h1>
 </div>
 <img src="https://github.com/user-attachments/assets/81575bfd-f252-438e-9920-8a91f4cacae3">
 
