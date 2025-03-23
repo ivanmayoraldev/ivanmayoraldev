@@ -4,21 +4,19 @@
 
 ## 🙋‍♂️ About Me
 
-Full-Stack Developer with a passion for design—Web, UX/UI & VFX. 
-DAW Graduated, always pushing my skills in new idea projects.
+Soy Full-Stack Developer con una gran pasión en cuanto al diseño se refiere desde Diseño Web, UX/UI hasta siendo especialista en GFX y VFX.
+Graduado en DAW, siempre impulsando mis habilidades en nuevos proyectos de ideas. 
 
-- 🚀 Web Dev: React, TypeScript, Astro, NodeJS, PHP, Laravel, Python, MySQL, PostgreSQL.
-- 🎨 Design & UI/UX: CSS, SASS, TailwindCSS, Figma, Framer.
-- 🎬 VFX & Motion Graphics: Premiere Pro, After Effects, DaVinci Resolve, Avid.
-- 🖌️ GFX: Photoshop, InDesign, Illustrator.
+- 🚀 Full-Stack Developer
+- 🎨 GFX & UI/UX Designer
+- 🎬 VFX & Motion Graphics
 
 <br>
 
-## 🎓 Education 
+## 🎓 Estudios 
 
 - 📖 Desarrollo de Aplicaciones Web (DAW) | JUANXXIII CFP
 - 📘 Titulo Superior Diseño Digital | CEI: Escuela de Diseño, Marketing y Nuevas Tecnologías
-- ⏭️ UX/UI & still studying to keep improving habilities (soon) 🌟
 <br>
 
 <img alt="Top Lang" width="40%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmayoraldev&layout=compact&theme=dracula">
