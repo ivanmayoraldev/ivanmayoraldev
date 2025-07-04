@@ -11,8 +11,6 @@ Graduado en DAW, siempre impulsando mis habilidades en nuevos proyectos de ideas
 - 🎨 GFX & UI/UX Designer
 - 🎬 VFX & Motion Graphics
 
-🚀 Ingeniería Informática en la UNIR (Universidad Internacional de La Rioja) en 2026.
-
 <br>
 
 ## Stack
