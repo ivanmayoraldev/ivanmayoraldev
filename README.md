@@ -1,11 +1,10 @@
 <div align="center">
-  <h1 align="left" >Hola! Soy <a style="color:#f7df2e;" href="https://www.linkedin.com/in/iv%C3%A1n-mayoral-8288a1331/">Iván Mayoral</a> 👋</h1>
+  <h1 align="left" >Hola! Soy <a style="color:#f7df2e;" href="https://www.linkedin.com/in/iv%C3%A1n-mayoral-8288a1331/">Iván Mayoral Capel</a> 👋</h1>
 </div>
 
 ## 🙋‍♂️ Sobre mí
 
-Soy Full-Stack Developer con una gran pasión en cuanto al diseño se refiere desde Diseño Web, UX/UI hasta siendo especialista en GFX y VFX.
-Graduado en DAW, siempre impulsando mis habilidades en nuevos proyectos de ideas. 
+Soy Desarrollador Full-Stack con una gran pasión en cuanto al diseño se refiere desde Diseño Web, UX/UI hasta siendo especialista en VFX. Recién graduado en DAW y en proceso de cursar DAM y futuro Ingeniero Informático.
 
 - 🚀 Full-Stack Developer
 - 🎨 GFX & UI/UX Designer
